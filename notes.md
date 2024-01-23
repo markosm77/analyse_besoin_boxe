@@ -1,0 +1,5 @@
+La start-up shopinacka a pour projet d’ouvrir un site e-commerce pour les pratiquants de sport de combat. 
+Avec de réels experts compétents dans de nombreuses disciplines de combat (Muay Thaï, MMA, boxe anglaise, Judo…)  Shopinacka est la marque par excellence pour vous offrir les meilleurs équipements. 
+
+Diagramme bête à cornes :
+Shopinacka souhaite que l’on développe un site e-commerce qui permettra de vendre aussi bien à des commerçants qu’à des particuliers. Le site agit sur les articles de sport proposés à la vente, en se concentrant notamment sur les gants de boxe. Une solution basée sur l'intelligence artificielle sera élaborée afin de permettre à l'utilisateur de choisir des gants en fonction de critères morphologiques tels que le poids et la taille, ainsi que selon les différentes applications envisagées, telles que le sparring d'entraînement ou la frappe au sac. De manière complémentaire, l'IA sera en mesure de prendre en considération une photo des mains de l'utilisateur afin de personnaliser davantage le choix de la taille des gants.
