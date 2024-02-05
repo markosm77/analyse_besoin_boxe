@@ -15,3 +15,5 @@ Plan conseillé à poursuivre
 - Plateforme d'intégration du site et de l'ia
 - Uses stories et maquettes
 - Annexes (outils de receuil)
+
+- Lien de plateforme cloud pour des IA : https://h2o.ai
