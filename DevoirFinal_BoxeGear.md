@@ -30,11 +30,21 @@ De nombreux boxeurs rencontrent des difficultés pour trouver des gants qui leur
 Cela peut entraîner des blessures et une expérience de pratique moins satisfaisante.
 Nous cherchons à résoudre ce problème en développant des solutions innovantes pour la conception et la personnalisation des gants de boxe.
 
-IA : Système de recommandation :
-Nous explorons l'utilisation de technologies d'intelligence artificielle, telles que Spark, pour développer un système de recommandation personnalisé 
-qui aidera les clients à trouver les gants de boxe idéaux en fonction de leurs besoins spécifiques, de leur style de boxe et de leurs préférences personnelles. 
-Ce système utilisera des techniques avancées d'apprentissage automatique pour analyser les données des clients et générer des recommandations précises et pertinentes, 
-améliorant ainsi l'expérience d'achat et de pratique pour nos utilisateurs.
+Exigences Techniques:
+BoxeGear envisage de mettre en place une solution innovante pour améliorer l’expérience de ses clients. Cette solution comprend un site web et une application mobile, tous deux construits avec React, qui permettent aux utilisateurs de prendre une photo de leur main. Cette photo est ensuite analysée par des modèles d’IA pour recommander des gants de boxe personnalisés.
+
+L’architecture de la solution est organisée en couches :
+
+Couche de présentation : Construite avec React pour le site web et React Native pour l’application mobile, cette couche permet aux utilisateurs de naviguer à travers les produits, de prendre des photos de leur main, et de recevoir des recommandations personnalisées.
+Couche application : Cette couche contient la logique métier et les modèles d’IA. Elle utilise FastAPI pour la gestion des API Restful, Alembic pour la gestion des migrations de la base de données, et SQLAlchemy comme ORM. Les modèles d’IA intégrés sont :
+DLRM (Deep Learning Recommendation Model) pour recommander des produits en fonction des préférences et du style de boxe de l’utilisateur.
+Gorse pour recommander des articles à partir de sources multiples.
+MediaPipe Hand Landmarker et BlazeHand pour détecter les points clés de la main à partir des photos prises par les utilisateurs.
+Couche données : Cette couche gère le stockage des données des utilisateurs, des produits, des préférences des utilisateurs, des photos des mains des utilisateurs, etc. Elle utilise une base de données classique.
+En ce qui concerne l’infrastructure, la solution sera hébergée sur le cloud, ce qui permet une grande flexibilité, une évolutivité facile et une haute disponibilité. Le déploiement continu (CD) et l’intégration continue (CI) seront mis en place pour assurer un développement et une livraison de logiciels rapides et fiables. Cela permettra des mises à jour régulières et garantira que le logiciel fonctionne correctement à chaque nouvelle version.
+
+En combinant ces technologies, BoxeGear peut offrir une expérience utilisateur personnalisée et innovante, aidant les boxeurs à trouver les gants parfaits pour leurs besoins spécifiques. Cette solution permettra à BoxeGear de se rapprocher de sa vision de devenir le leader mondial de l’équipement de boxe.
+Nous utiliserons également Snowflake avec du Spark pour le stockage et le traitement de données avant de les intégrer dans nos modèles d'IA.
 
 Politique de confidentialité de BoxeGear :
 Chez BoxeGear, nous attachons une grande importance à la protection de la vie privée et à la sécurité des données de nos clients. 
