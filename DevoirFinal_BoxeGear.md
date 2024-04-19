@@ -49,6 +49,15 @@ Gorse456 : Gorse est un système de recommandation open-source écrit en Go. Il 
 MediaPipe Hand Landmarker789 : MediaPipe Hand Landmarker est une tâche qui vous permet de détecter les points clés des mains dans une image7. Vous pouvez utiliser cette tâche pour localiser les points clés des mains et rendre des effets visuels sur eux7. Cette tâche fonctionne sur des données d’image avec un modèle d’apprentissage automatique comme données statiques ou un flux continu et produit des points clés de main en coordonnées d’image, des points clés de main en coordonnées mondiales et la latéralité (main gauche/droite) de plusieurs mains détectées7.
 BlazeHand101112 : BlazeHand est un modèle d’apprentissage automatique qui détecte les points clés de la main10. Comme il peut détecter des mouvements de main détaillés, il peut être appliqué à la reconnaissance des gestes10. BlazeHand se compose de deux modèles, BlazePalm et BlazeHand. Après avoir détecté la position de la main à partir de l’image d’entrée avec BlazePalm, les points clés de la main sont détectés à partir de l’image de la main avec BlazeHand10.
 
+![image](https://github.com/markosm77/analyse_besoin_boxe/assets/96230455/b9f0d789-816c-4006-b5ed-1d41723345e5)
+
+Maquette Wireframe : 
+
+![image](https://github.com/markosm77/analyse_besoin_boxe/assets/96230455/67e8b4fa-1981-4554-8a19-26bd52f31d1d)
+![image](https://github.com/markosm77/analyse_besoin_boxe/assets/96230455/7dd6e8b6-9d4b-4c5b-8b91-36a90c23e769)
+![image](https://github.com/markosm77/analyse_besoin_boxe/assets/96230455/f9315bde-e629-44fe-93ac-8f3904476c44)
+
+
 Politique de confidentialité de BoxeGear :
 Chez BoxeGear, nous attachons une grande importance à la protection de la vie privée et à la sécurité des données de nos clients. 
 Notre politique de confidentialité vise à garantir que toutes les informations personnelles collectées sont traitées de manière sécurisée et conforme aux lois et
