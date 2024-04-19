@@ -8,7 +8,9 @@ Vision / Stratégie :
 Notre vision est de devenir le leader mondial de l'équipement de boxe en offrant des produits innovants, de haute qualité et personnalisés, tout en favorisant une culture de l'excellence et 
 de l'engagement envers nos clients. Nous nous efforçons de créer une communauté passionnée de boxeurs et de passionnés de sports de combat, tout en repoussant les limites de l'innovation dans notre domaine.
 
-Diagramme "Bête à cornes" : (DiagrammeBeteACorne.png)
+Diagramme "Bête à cornes" :
+![image](https://github.com/markosm77/analyse_besoin_boxe/assets/96230455/ee98c2c8-b1b3-43eb-99bf-57548552ac17)
+
 
 Le diagramme "Bête à cornes" met en évidence les éléments clés de BoxeGear, notamment notre offre de produits, notre engagement envers la qualité et l'innovation, 
 notre relation avec les clients et notre positionnement sur le marché de l'équipement de boxe.
