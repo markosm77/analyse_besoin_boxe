@@ -7,5 +7,6 @@ Shopinacka souhaite que l’on développe un site e-commerce qui permettra de ve
 
 
 
-![image](https://github.com/markosm77/analyse_besoin_boxe/assets/96230455/d1e271a4-4935-47b2-874c-49f37b509e23)
+![image](https://github.com/markosm77/analyse_besoin_boxe/assets/96230455/dfcaca0f-043a-4068-b594-28be3aeb8818)
+
 
