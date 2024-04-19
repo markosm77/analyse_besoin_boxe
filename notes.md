@@ -3,8 +3,9 @@ Shopinacka a pour projet d’ouvrir un site web spécialisé dans la vente d’�
 
 Diagramme bête à cornes :
 Shopinacka souhaite que l’on développe un site e-commerce qui permettra de vendre aussi bien à des commerçants qu’à des particuliers. Le site agit sur les articles de sport proposés à la vente, en se concentrant notamment sur les gants de boxe. Une solution basée sur l'intelligence artificielle sera élaborée afin de permettre à l'utilisateur de choisir des gants en fonction de critères morphologiques tels que le poids et la taille, ainsi que selon les différentes applications envisagées, telles que le sparring d'entraînement ou la frappe au sac. De manière complémentaire, l'IA sera en mesure de prendre en considération une photo des mains de l'utilisateur afin de personnaliser davantage le choix de la taille des gants.
+![image](https://github.com/markosm77/analyse_besoin_boxe/assets/96230455/fa56fde1-1a31-4f43-a52f-0b3767843fb3)
 
-![diagramme_bete_a_cornes drawio (1)](https://github.com/markosm77/analyse_besoin_boxe/assets/62965738/5f9030f8-af85-4fb8-8bde-e1bc79486a02)
+
 
 ![image](https://github.com/markosm77/analyse_besoin_boxe/assets/96230455/d1e271a4-4935-47b2-874c-49f37b509e23)
 
