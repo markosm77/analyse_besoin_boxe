@@ -19,6 +19,8 @@ notre relation avec les clients et notre positionnement sur le marché de l'équ
 
 Diagramme de pieuvre :
 
+![image](https://github.com/markosm77/analyse_besoin_boxe/assets/96230455/6bf3394a-e572-4400-85d8-b3c15b922306)
+
 Le diagramme de pieuvre illustre les différentes parties prenantes de BoxeGear, y compris nos fournisseurs, nos distributeurs, nos clients, notre équipe interne et d'autres acteurs du marché,
 ainsi que les interactions entre eux.
 
