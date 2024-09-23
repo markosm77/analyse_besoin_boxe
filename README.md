@@ -20,3 +20,5 @@ https://www.nvidia.com/en-us/glossary/recommendation-system/#:~:text=A%20recomme
 - Annexes (outils de receuil)
 
 - Lien de plateforme cloud pour des IA : https://h2o.ai
+
+test a la con
